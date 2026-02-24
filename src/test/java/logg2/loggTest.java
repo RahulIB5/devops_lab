@@ -8,7 +8,7 @@ public class loggTest {
 	public void testValidLogin() {
 		Assert.assertEquals(
 			login.logg.validate("admin","admin123"),
-			"Login SUccessful"
+			"Login success"
 		);
 	}
 	
