@@ -2,7 +2,7 @@ package logg2;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class t1 {
+public class loggTest {
 	
 	@Test
 	public void testValidLogin() {
