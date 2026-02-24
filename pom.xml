@@ -12,4 +12,8 @@
     <scope>test</scope>
 </dependency>
   </dependencies>
+   <build>
+    <sourceDirectory>target/src/main/java</sourceDirectory>
+    <testSourceDirectory>target/src/test/java</testSourceDirectory>
+  </build>
 </project>
